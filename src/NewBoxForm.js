@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import './NewBoxForm.css';
 
 function NewBoxForm({ addBox }) {
     const INITIAL_STATE = {

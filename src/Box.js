@@ -1,5 +1,4 @@
 import React from "react";
-import './Box.css';
 
 function Box({ color, height, width, remove }) {
     const containerStyles = {
