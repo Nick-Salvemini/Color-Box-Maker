@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BoxList component matches snapshot 1`] = `
+<div>
+  <h1>
+    Color Box Maker
+  </h1>
+  <form>
+    <label
+      for="color"
+    >
+      Color
+    </label>
+    <input
+      id="color"
+      name="color"
+      placeholder="CSS-friendly Color"
+      type="text"
+      value=""
+    />
+    <label
+      for="height"
+    >
+      Height
+    </label>
+    <input
+      id="height"
+      name="height"
+      placeholder="Height in Pixels"
+      type="text"
+      value=""
+    />
+    <label
+      for="width"
+    >
+      Width
+    </label>
+    <input
+      id="width"
+      name="width"
+      placeholder="Width in Pixels"
+      type="text"
+      value=""
+    />
+    <button>
+      Add Box
+    </button>
+  </form>
+  <div />
+</div>
+`;
